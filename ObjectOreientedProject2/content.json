@@ -1,0 +1,176 @@
+{
+  "Jersey":[
+    {
+      "Name": "ManchesterUnited Chelsea ManchesterCity Liverpool Celtic RealMadrid Barcelona BayernMunich Arsenal"
+    }
+  ],
+  "JerseyDetails":[
+    {
+      "Description": "This is the home jersey for Manchester United for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/man.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Chelsea for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/chelsea.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Manchester City for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/manc.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Liverpool for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/liverpool.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Celtic for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/celtic.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Real Madrid for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/madrid.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Barcelona for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/bara.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Bayern Munich for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/bayern.jpg"
+    },
+    {
+      "Description": "This is the home jersey for Arsenal for the 2016/2017 season. The sizes the jersey is available in are extra small, small, medium, large and extra large",
+      "Image": "images/arsenal.jpg"
+    }
+  ],
+
+  "Supplement":[
+    {
+      "Name": "Leggings Runners Jacket sportsJacket"
+    }
+  ],
+  "SupplementDetails":[
+    {
+      "Description": "Run for hours in comfortable sports leggings. The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/MenLeggings.jpg"
+    },
+    {
+      "Description": "The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/menRunners.jpg"
+    },
+
+    {
+      "Description": "The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/menJacket.jpg"
+    },
+    {
+      "Description": "The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/WinterJacket2.jpg"
+    }
+  ],
+
+  "Equipment":[
+    {
+      "Name": " DumbBells BenchPress ThreadMill MedicineBall YogaMatt TenisRacket TenisBalls GolfClubs"
+    }
+  ],
+
+  "EquipmentDetails":[
+    {
+      "Description": "These dumb bells come in steel or in plastic full with water. They come in 10kg,20kg,30kg,40kg,50kg. Must not be used by anyone under 16.",
+      "Image": "images/dum1.jpg"
+    },
+    {
+      "Description": "The bench press comes with 2 steel poles which weigh 10kg each. The weights that come with this are 10kg,20kg,30kg,40kg,50kg. Must not be used by anyone under 18.",
+      "Image": "images/bench.jpg"
+    },
+    {
+      "Description": "Whatver your level of fitness, the Everlast Everfit XV10 treadmill will help you to achieve results. From gentle walking to fast running, this compact and functional Bluetooth treadmill allows you to have the comfort and convienience of working out at home. The size is Size H135.5, W73, D165cm.Price 1329.99 euro.",
+      "Image": "images/tread.jpg"
+    },
+    {
+      "Description": "The Physical Company medicine ball are a great way to incorporate resistance training into personal training sessions, home circuit classes and gym programmes with a complete range of weight options.Diameter 19cm price 31.99 euro.",
+      "Image": "images/medicine.jpg"
+    },
+    {
+      "Description": "The blue 4mm thick Yoga Mat from Reebok features a non-slip surface to help you maintain stability and posture through every pose. Measuring in at 173 x 61cm, the Reebok Yoga Mat is abrasion resistant and comfortable for your feet, knees and hands - not only that but it's easy to care for and a breeze to clean after use. Price 23.99 euro.",
+      "Image": "images/yoga.jpg"
+    },
+    {
+      "Description": "A superb entry level tennis racket, the Roger Federer 27in understands that everyone starts out new but need a superb quality racket to help build skills. A great value, great quality, lightweight construction ready to get you through your first few years of the game. Price 32.99 euro.",
+      "Image": "images/tenis.jpg"
+    },
+    {
+      "Description": "This pack of Head tennis balls is championship quality and suitable for all playing surfaces. The pack is ideal for getting some practise in or for some fast-paced matches. Price 6.49 euro.",
+      "Image": "images/tenisb.jpg"
+    },
+    {
+      "Description": "Introduce yourself to the wonderful game of golf with the superb Wilson Reflex package set. This package set will benefit beginners as the clubs are designed to help golfers get the ball high in the air with great accuracy. With a quality bag to carry around the clubs you can not go wrong with this ultimate package set. Head covers included.Suitable for beginner players price 269.99 euro.",
+      "Image": "images/golfc.jpg"
+    }
+  ],
+
+  "Women":[
+    {
+      "Name": " Footballboots RunningLeggings RunningJacket WinterJacket WomanShorts"
+    }
+  ],
+  "WomenDetails":[
+    {
+      "Description": "Can be used on grass or astro turf",
+      "Image": "images/femaleFootballBoots.jpg"
+    },
+    {
+      "Description": "Run for hours in comfortable sports leggings. The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/runningLeggings.jpg"
+    },
+
+
+    {
+      "Description": "Keep warm out there with this value for money sports excercise jacket. The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/FemaleJacket.jpg"
+    },
+
+    {
+      "Description": "Keep warm out there with this value for money  winter north face jacket. The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/WinterJacket.jpg"
+    },
+
+    {
+      "Description": "Cool pair of shorts for training. The sizes are available in extra small, small, medium, large and extra large",
+      "Image": "images/WomanShorts.jpg"
+    }
+  ],
+  
+  "JerseyComp":[
+    {
+      "CompMsg": "Thank you for entering your name will be put into the draw for next week. With a chance to win a trip to the home game of the team you support"
+    },
+    {
+      "CompMsg": "You have chosen not to enter the competition"
+    }
+  ],
+  "SupplementComp":[
+    {
+      "CompMsg": "Thank you for entering your name will be put into the draw for next week. With a chance to win 200.00 euro to spend on supplement products"
+    },
+    {
+      "CompMsg": "You have chosen not to enter the competition"
+    }
+  ],
+  "EquipmentComp":[
+    {
+      "CompMsg": "Thank you for entering your name will be put into the draw for next week. With a chance to win 1000.00 euro to spend on any equipment products"
+    },
+    {
+      "CompMsg": "You have chosen not to enter the competition"
+    }
+  ],
+  "WomenComp":[
+    {
+      "CompMsg": "Thank you for entering your name will be put into the draw for next week. With a chance to win 1000.00 euro to spend on any women workout products"
+    },
+    {
+      "CompMsg": "You have chosen not to enter the competition"
+    }
+  ]
+}
